@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as t,a2 as e}from"./chunks/framework.YKbyQ3zk.js";const g=JSON.parse('{"title":"Next.js guide","description":"","frontmatter":{},"headers":[],"relativePath":"nextjs.md","filePath":"nextjs.md"}'),n={name:"nextjs.md"};function h(k,s,l,p,r,d){return a(),t("div",null,[...s[0]||(s[0]=[e("",93)])])}const A=i(n,[["render",h]]);export{g as __pageData,A as default};

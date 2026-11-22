@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as e,a2 as t}from"./chunks/framework.YKbyQ3zk.js";const c=JSON.parse('{"title":"Convex guide","description":"","frontmatter":{},"headers":[],"relativePath":"convex.md","filePath":"convex.md"}'),n={name:"convex.md"};function h(l,s,k,p,o,d){return a(),e("div",null,[...s[0]||(s[0]=[t("",88)])])}const g=i(n,[["render",h]]);export{c as __pageData,g as default};
